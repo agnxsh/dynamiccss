@@ -1,0 +1,5 @@
+CSS modules is aa feature which is only available in projects that are configured to support it bcause it needs a code 
+transformation.
+
+general syntax acquired by Babel or webpack
+is: Component-name_class-name__unique-hash
